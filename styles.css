@@ -1,0 +1,148 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    justify-content: space-between;
+    width: 134px;
+    height: 20px;
+    size: 17px;
+    margin-right: 70px;
+}
+
+.logo {
+    margin-left: 70px;
+}
+
+.main-image {
+    width: 1440px;
+    height: 606px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+li:hover {
+	color: rgb(85, 0, 255);
+	cursor: pointer;
+}
+
+.h2 {
+   position: absolute;
+   top: 30px;
+   left: 40px;
+   font-size: 79px;
+   font-weight: 700;
+   color: #FFFFFF;
+   display: block;
+   font-weight: bold;
+   unicode-bidi: isolate;
+   margin-top: 250px;
+   margin-left: 450px;
+}
+
+.h22 {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    font-size: 17px;
+    font-weight: 700;
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    margin-top: 360px;
+    margin-left: 590px;
+ }
+
+ .section {
+    display: flex;
+ }
+
+ .one {
+    top: 30px;
+    left: 40px;
+    font-size: 17px;
+    font-weight: 700;
+    color: #636060;
+    display: block;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 100px;
+ }
+
+ .two{
+    top: 30px;
+    left: 40px;
+    font-size: 28px;
+    font-weight: 700;
+    color: #010101;
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 100px;
+ }
+
+ .three{
+    top: 30px;
+    left: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #636060;
+    display: block;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 100px;
+ }
+
+ .all6 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin-top: 70px;
+ }
+
+ .firstimage {
+   margin-left: 60px;
+ }
+
+ .secondimage {
+    margin-left: 60px;
+ }
+
+ .thirdimage {
+    margin-left: 60px;
+ }
+
+ .fourthimage {
+    margin-left: 60px;
+    
+ }
+
+ .fifthimage {
+    margin-left: 60px;
+ }
+
+ .sixthimage {
+    margin-left: 60px;
+ }
+
+ .all6 h2 {
+    size: 19px;
+    color: #343232;
+    margin-top: 15px;
+    margin-left: 60px;
+ }
+
+ .all6 p {
+    size: 18px;
+    color: #636060;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+ }
